@@ -1,0 +1,6 @@
+@media all and (min-width:350px) and (max-width:650px){
+    #menico{
+        left: 200px;
+        top: 200px;
+    }
+}
